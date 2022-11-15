@@ -1,0 +1,5 @@
+﻿Go to Pizza App
+Search for Deal
+Add selections
+Verify cart
+Pay for order
